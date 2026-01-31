@@ -63,10 +63,6 @@ Tables include:
 ## Default Admin Account
 A default admin account is created using a data seeder.
 
-- Email: admin@makeupstudio.com
-- Password: Admin123!
-
----
 
 ## How to Run the Project
 
