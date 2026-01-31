@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\seed\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\repositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\repositories\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\models\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\models\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\models\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\models\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\dtos\\updateappointmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\dtos\\updateappointmentstatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\migrations\\20260128165240_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\migrations\\20260128165240_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\dtos\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\dtos\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\dtos\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\dtos\\createappointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|c:\\users\\emi\\source\\repos\\makeupstudio_api\\makeupstudio_api\\makeupstudio_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0C9112D-B65E-469A-B7BD-0D9680F12935}|MakeupStudio_Api\\MakeupStudio_Api.csproj|solutionrelative:makeupstudio_api\\makeupstudio_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Program.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Program.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T14:47:02.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:52:16.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwMoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:05:52.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Seed\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Seed\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Seed\\DataSeeder.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Seed\\DataSeeder.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T20:10:02.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\README.md",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\README.md",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\README.md",
+              "RelativeToolTip": "MakeupStudio_Api\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-30T18:38:27.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:19:59.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Repositories\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\IServiceRepository.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Repositories\\IServiceRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:19:20.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:56:31.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\Appointment.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:18:47.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T17:37:16.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Models\\AppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\AppointmentStatus.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Models\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:16:26.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\Service.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Models\\Service.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:11:39.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Models\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Models\\AppointmentService.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Models\\AppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:25:30.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateAppointmentStatusDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\UpdateAppointmentStatusDto.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Dtos\\UpdateAppointmentStatusDto.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\UpdateAppointmentStatusDto.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Dtos\\UpdateAppointmentStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T18:03:36.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260128165240_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Migrations\\20260128165240_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Migrations\\20260128165240_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Migrations\\20260128165240_InitialCreate.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Migrations\\20260128165240_InitialCreate.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T16:52:41.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\ServiceDto.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Dtos\\ServiceDto.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\ServiceDto.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Dtos\\ServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:43:51.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Dtos\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:10:20.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Dtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:10:50.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\CreateServiceDto.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Dtos\\CreateServiceDto.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\CreateServiceDto.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Dtos\\CreateServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:45:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateAppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\CreateAppointmentDto.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Dtos\\CreateAppointmentDto.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\CreateAppointmentDto.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Dtos\\CreateAppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:49:48.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Dtos\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Dtos\\AppointmentDto.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Dtos\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:50:29.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T15:53:11.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:36:12.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MakeupStudio_Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:18:36.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\appsettings.json",
+              "RelativeToolTip": "MakeupStudio_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-22T15:54:45.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MakeupStudio_Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\MakeupStudio_Api.csproj",
+              "RelativeDocumentMoniker": "MakeupStudio_Api\\MakeupStudio_Api.csproj",
+              "ToolTip": "C:\\Users\\Emi\\source\\repos\\MakeupStudio_Api\\MakeupStudio_Api\\MakeupStudio_Api.csproj",
+              "RelativeToolTip": "MakeupStudio_Api\\MakeupStudio_Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-22T14:50:16.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
